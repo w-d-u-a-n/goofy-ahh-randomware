@@ -2,6 +2,7 @@
 if anyone is actually stupid enough to run this im not decrypting your files bozo
 
 **DO NOT UNCOMMENT Main.java BLOCK UNLESS YOU KNOW WHAT YOU ARE DOING**
+**IT WILL ENCRYPT ALL DOWNLOADS DOCUMENTS AND DESKTOP FILES**
 
 turns this: <img width="680" alt="image" src="https://user-images.githubusercontent.com/107413987/192915907-bf8c2374-0b23-40bc-834b-7738917bef5e.png">
 
