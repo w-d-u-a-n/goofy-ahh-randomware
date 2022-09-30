@@ -11,7 +11,7 @@ into this:<img width="681" alt="image" src="https://user-images.githubuserconten
 
 
 webhook notif style ->
-<img width="617" alt="image" src="https://user-images.githubusercontent.com/107413987/192915350-b7d05721-6aef-4eb2-b467-f2ea54fee4ec.png">
+<img width="355" alt="image" src="https://user-images.githubusercontent.com/107413987/193264669-fd3736e5-f77f-4d84-b5c3-5575feca3163.png">
 
 i dont take any responsibility in any dumb shit you do with this
 
